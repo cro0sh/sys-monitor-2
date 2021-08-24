@@ -1,0 +1,3 @@
+/home/cro0sh/Desktop/sys-monitor-cpp-2/build/CMakeFiles/rebuild_cache.dir
+/home/cro0sh/Desktop/sys-monitor-cpp-2/build/CMakeFiles/edit_cache.dir
+/home/cro0sh/Desktop/sys-monitor-cpp-2/build/CMakeFiles/monitor.dir

@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="sys_monitor_main_aug_24_2021"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sys_monitor_main_aug_24_2021">
+				<Option output="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/sys_monitor_main_aug_24_2021" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/system-monitor-cpp/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 sys_monitor_main_aug_24_2021"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="sys_monitor_main_aug_24_2021/fast">
+				<Option output="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/sys_monitor_main_aug_24_2021" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/system-monitor-cpp/include"/>
+					<Add directory="/usr/include/c++/9"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/9"/>
+					<Add directory="/usr/include/c++/9/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/9/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 sys_monitor_main_aug_24_2021/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/system-monitor-cpp/include/format.h">
+			<Option target="sys_monitor_main_aug_24_2021"/>
+		</Unit>
+		<Unit filename="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/system-monitor-cpp/include/linux_parser.h">
+			<Option target="sys_monitor_main_aug_24_2021"/>
+		</Unit>
+		<Unit filename="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/system-monitor-cpp/include/ncurses_display.h">
+			<Option target="sys_monitor_main_aug_24_2021"/>
+		</Unit>
+		<Unit filename="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/system-monitor-cpp/include/process.h">
+			<Option target="sys_monitor_main_aug_24_2021"/>
+		</Unit>
+		<Unit filename="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/system-monitor-cpp/include/processor.h">
+			<Option target="sys_monitor_main_aug_24_2021"/>
+		</Unit>
+		<Unit filename="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/system-monitor-cpp/include/system.h">
+			<Option target="sys_monitor_main_aug_24_2021"/>
+		</Unit>
+		<Unit filename="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/system-monitor-cpp/src/format.cpp">
+			<Option target="sys_monitor_main_aug_24_2021"/>
+		</Unit>
+		<Unit filename="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/system-monitor-cpp/src/linux_parser.cpp">
+			<Option target="sys_monitor_main_aug_24_2021"/>
+		</Unit>
+		<Unit filename="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/system-monitor-cpp/src/main.cpp">
+			<Option target="sys_monitor_main_aug_24_2021"/>
+		</Unit>
+		<Unit filename="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/system-monitor-cpp/src/ncurses_display.cpp">
+			<Option target="sys_monitor_main_aug_24_2021"/>
+		</Unit>
+		<Unit filename="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/system-monitor-cpp/src/process.cpp">
+			<Option target="sys_monitor_main_aug_24_2021"/>
+		</Unit>
+		<Unit filename="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/system-monitor-cpp/src/processor.cpp">
+			<Option target="sys_monitor_main_aug_24_2021"/>
+		</Unit>
+		<Unit filename="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/system-monitor-cpp/src/system.cpp">
+			<Option target="sys_monitor_main_aug_24_2021"/>
+		</Unit>
+		<Unit filename="/home/cro0sh/Desktop/sys-monitor-main-aug-24-2021/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>
